@@ -1,0 +1,29 @@
+NOTE:
+
+You will need to create a perfectSquare function that returns the perfect square of a given number;
+
+E.g. perfectSquare(7) should return 49.
+
+Then, use this function to show a list of all pythagorean triples where the first 2 numbers are less than 100. 
+
+(3, 4, 5) is a pythagorean triple because 3^2 + 4^2 = 9 + 16 = 25.  And this exactly matches the square of the 3rd number.
+
+Your output should be:
+
+(3, 4, 5)	
+(5, 12, 13)	
+(8, 15, 17)	
+(7, 24, 25)
+(20, 21, 29)	
+(12, 35, 37)	
+(9, 40, 41)	
+(28, 45, 53)
+(11, 60, 61)	
+(16, 63, 65)	
+(33, 56, 65)	
+(48, 55, 73)
+(13, 84, 85)	
+(36, 77, 85)	
+(39, 80, 89)	
+(65, 72, 97)
+

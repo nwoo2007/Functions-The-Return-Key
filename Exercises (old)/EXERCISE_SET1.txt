@@ -1,0 +1,25 @@
+1. How would these two functions behave differently when called?
+
+  // function 1
+  function add1(x, y) {
+    console.log(x + y);
+  }
+
+  // function 2
+  function add2(x, y) {
+    return x + y;
+  }
+
+2. Write a function that returns the area of a triangle. Parameters: base, height. E.g. triArea(2,8) >> returns 8.
+
+3. Write a function that returns the dice symbol from rolling a single dice. Parameters: none. E.g. dieRoll() >> returns (if 5 is the random number)
+*   *
+ * *
+  *
+ * *
+*   *
+
+4. Write a function that returns the perimeter of either a square or circle. The input will be in the form (letter l, number num) where the letter will be either "s" for square, or "c" for circle, and the number will be the side of the square or the radius of the circle. 
+
+5. Create a function that will return an integer number corresponding to the amount of digits in the given integer num. Parameters: num. E.g. num_of_digits(1000) ➞ 4, num_of_digits(12) ➞ 2. Try to solve this challenge without strings (hint: if you keep dividing a number by 10, it will eventually be less than 1....)
+
